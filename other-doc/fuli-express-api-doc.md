@@ -30,7 +30,7 @@
 
 ##### 请求参数列表
 
-<table border="1px" align="center">
+<table align="center">
     <tr align="center">
         <td>参数名称</td>
         <td>类型</td>
@@ -149,7 +149,7 @@
 
 ##### 响应参数列表
 
-<table border="1px" align="center">
+<table align="center">
     <tr align="center">
         <td>参数名称</td>
         <td>类型</td>
@@ -245,7 +245,7 @@
 
 ##### 请求参数列表
 
-<table border="1px" align="center">
+<table align="center">
     <tr align="center">
         <td>参数名称</td>
         <td>类型</td>
@@ -455,7 +455,7 @@
 
 ##### 响应参数列表
 
-<table border="1px" align="center">
+<table align="center">
     <tr align="center">
         <td>参数名称</td>
         <td>类型</td>
@@ -576,7 +576,7 @@
 
 ##### 请求参数列表
 
-<table border="1px" align="center">
+<table align="center">
     <tr align="center">
         <td>参数名称</td>
         <td>类型</td>
@@ -618,7 +618,7 @@
 
 ##### 响应参数列表
 
-<table border="1px" align="center">
+<table align="center">
     <tr align="center">
         <td>参数名称</td>
         <td>类型</td>
@@ -689,7 +689,7 @@
 
 ##### 请求参数列表
 
-<table border="1px" align="center">
+<table align="center">
     <tr align="center">
         <td>参数名称</td>
         <td>类型</td>
@@ -724,7 +724,7 @@
 
 ##### 响应参数列表
 
-<table border="1px" align="center">
+<table align="center">
     <tr align="center">
         <td>参数名称</td>
         <td>类型</td>
@@ -795,7 +795,7 @@
 
 ##### 请求参数列表
 
-<table border="1px" align="center">
+<table align="center">
     <tr align="center">
         <td>参数名称</td>
         <td>类型</td>
@@ -830,7 +830,7 @@
 
 ##### 响应参数列表
 
-<table border="1px" align="center">
+<table align="center">
     <tr align="center">
         <td>参数名称</td>
         <td>类型</td>
@@ -981,7 +981,7 @@
 
 ##### 回调参数列表
 
-<table border="1px" align="center">
+<table align="center">
     <tr align="center">
         <td>参数名称</td>
         <td>类型</td>
